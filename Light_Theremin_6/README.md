@@ -1,4 +1,4 @@
-Project 5 - Light Theremin
+Project 6 - Light Theremin
 
 Objective
 - Create a light-controlled instrument that changes pitch depending on the amount of light detected by a photoresistor.
